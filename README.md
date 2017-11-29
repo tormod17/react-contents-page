@@ -8,7 +8,7 @@ open http://localhost:3000
 
 ### Progress 
 
-#### Extra Modules
+#### Extra Modules
 
 - loaders, for css and json 
 - proptypes module. 
@@ -43,7 +43,3 @@ Some things to note:
 * Simplicity is key.
 * Remember to make use of the app states provided.
 * There's no need to make requests to load data, keep it static.
-
-
-
-# react-contents-page
